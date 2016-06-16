@@ -7,6 +7,7 @@ Zutaten für 12 Stück
 |   |   |
 |---|---|
 | Butter  | 120g  |
+| Zucker  | 170g  |
 | Schwarzes Sesampulver  |  50g |
 | Sesamöl  | Schluck  |
 | Ei       | 1  |
@@ -31,7 +32,7 @@ Zutaten für 12 Stück
 
 ### Teig
 1. Butter und Zucker mischen
-2. Sesam, Ei und Vanille hinzugeben, mischen
+2. Sesam, Sesamöl, Ei und Vanille hinzugeben, mischen
 3. In zweiter Schüssel Mehl, Salz und Backpulver mischen
 4. Mehlmischung und Milch schrittweise in die erste Schüssel geben, dabei rühren
 
